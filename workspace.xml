@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71b6f888-11c7-4299-b177-59acf3e88245" name="Default Changelist" comment="Performing EDA for various ecosystems. Currently working on sensor data and experimenting with various regression models." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QjnqX2iYFnYJckRwlL3IXDWnb4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71b6f888-11c7-4299-b177-59acf3e88245" name="Default Changelist" comment="" />
+      <created>1685876048713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685876048713</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Performing EDA for various ecosystems. Currently working on sensor data and experimenting with various regression models.">
+      <created>1701370218275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701370218275</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Performing EDA for various ecosystems. Currently working on sensor data and experimenting with various regression models." />
+    <option name="LAST_COMMIT_MESSAGE" value="Performing EDA for various ecosystems. Currently working on sensor data and experimenting with various regression models." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="482" y="187" key="SettingsEditor" timestamp="1701370838276">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1701370838276" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1701370981182">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1701370981182" />
+    <state x="795" y="415" key="git4idea.rebase.GitRebaseDialog" timestamp="1701371067114">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="795" y="415" key="git4idea.rebase.GitRebaseDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1701371067114" />
+    <state x="689" y="451" width="599" height="202" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1701370969059">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="689" y="451" width="599" height="202" key="git4idea.remote.GitConfigureRemotesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1701370969059" />
+    <state x="784" y="449" width="409" height="207" key="git4idea.ui.GitResetDialog" timestamp="1701370912211">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="784" y="449" width="409" height="207" key="git4idea.ui.GitResetDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1701370912211" />
+  </component>
+</project>
